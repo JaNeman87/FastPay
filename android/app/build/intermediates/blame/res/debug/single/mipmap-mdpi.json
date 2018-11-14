@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nele/IT/FastPay/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/nele/IT/FastPay/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nele/IT/payqr/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/nele/IT/payqr/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/nele/IT/copy/FastPayCopy/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/fastpay.png",
+        "source": "/home/nele/IT/copy/FastPayCopy/android/app/src/main/res/mipmap-mdpi/fastpay.png"
+    }
+]

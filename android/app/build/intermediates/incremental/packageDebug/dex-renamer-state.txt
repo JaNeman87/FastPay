@@ -1,0 +1,4 @@
+#Mon Oct 15 16:24:51 CEST 2018
+base.0=/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

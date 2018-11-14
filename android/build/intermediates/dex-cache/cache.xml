@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_2430b6716333786b6807bdb7f45801b0e7f59fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_e400a3653b2daec0f904be5e6cd20650f312967d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_e46cd81fdab31298412582e886555ae24d16c914.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_39bd812c57b0ffabf91055c851ea6973d898f2e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_0e23819ff482ba00d637338e6dfda17d8371c533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_35f10689ba505e0b2f36b5d5c42b238ec3a1d7a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_bccb3cf5c4ca07f2aacc859c2bd0e4fc29e23129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_5d69e474fe8a36b1a303bab007501440460ee18d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_d7c796742171a00ae8914124fd2a5c030a4ab985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_62d9829c98b813b5b82e6ebe56cb260d272743c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_284b66a083cdfa4cdd2569e0cbbed75f73f68d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a40bef9ff7bb5aa09fed256d696ecfe4f384a087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b11c496a483a723eed6b23120dd55451ae9c61b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_d710d53f9502aab7960cf4853da4de16249020ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f9150f8fe1a97e5e73da4659b81b24bb787fa1e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_998f58e95354a8497f00cf8c604595984f4f2a8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_f1b31295be92f01ba61bcf2b9b0bcc31ee1d17ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_e4cd0817f08c5d450b7acf24b13fcc6d57f2b0f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_a8fa48b99f4f75ed050c14366af6b3196b7384cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-common-11.0.4_3b64ea41f056bfeef64c7180aa0985a61f9aea66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_75a8cef54a1ef6eea637fac0b22950edfcdc7622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_1fe63376b88f3b12ec98d31b7ceba0de17ff1b8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_ebefaf399ba60a0d7778769ec3812a4d43ad0963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4324368a079cb2f4c32d9487a90fe04b90e8bbd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_01b12ad78f656120d0febf25c11c204f9c8c976e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_ea0420b7f0a92dd1fea09175d2f7a637828b69f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a4ff18420a8934a9e3216240ba688ec9282bc97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_18fdd712a13363821417fc42363219b3f62c014c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6dce75301db7f96559311c1ed21d3c3418304998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_8cbd416ce95e3c2ee2214d8946cc5f9d4fc92169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/payqr/react-native-barcode-scanner-google/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="64a6b26fb530ae368992db55fa1cdaedc1ac8f31">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/payqr-react-native-barcode-scanner-google-unspecified_444d9f1ca99c8c6f5243818d5d87b97a680ae99a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/payqr/react-native-barcode-scanner-google/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="64a6b26fb530ae368992db55fa1cdaedc1ac8f31">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/payqr-react-native-barcode-scanner-google-unspecified_56c4740dbdadc6058ca17ed1dd16087bdc786fc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b3ccc2babea9a884ceb74ff86b197240a1d61adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_948136d487be571f9a520c67324ead0ec40ce05d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_57a7c25113944347710f9418e5235acf03753927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_bdea5a00e9782bc7872de7c0643c170ba748e3e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_d722ee536228f9cf9ab272af472737c7ff80378f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_585ffee4ae53d307b83bfac3a055ecbd5a1093e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_eac5be175b0f987ad18563186add5f9f59a2be9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_8a213133abfe82e020d319696fc843b85398960e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-11.0.4_437dce3916d3321268fba4301775a06f13204bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_8b6140a821d26632778157abbdf0229e874a4202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_13de8f865cb860972c63c420dc50cf23b20f5472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-common-11.0.4_40a70251009b23abc68195d58492c405fff6da8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7e42dd49109acfeba254f889702c14997b7a0699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e7ea4e486c0a517743326a43c02b22b521807cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-11.0.4_2d33bacad813dc82158b836bc9abb33194855d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/payqr/react-native-splash-screen/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8511bbcf3ed46654cbb90c6bd187c3ff28fe1385">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/payqr-react-native-splash-screen-unspecified_c9420f5eaf8cc84349e18f70fe60a9d0c49b7165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_028ac415ec9d88432a8dd6622554ffe6d90d4478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_5d91c04cdb6bb3b3abd433963c4a3c6fc01e95b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d9412f64a1966e196637ecdefe7976169906a145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/nele/IT/FastPay/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_5579de6ac3228d9d2f7793978e3746cab521adb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_1635df5dd45aefab7208198db1c16704c06b7c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_d24e904e42f8ed102772d475a4917f816f3fbc55.jar" />
+    </item>
+
+</items>

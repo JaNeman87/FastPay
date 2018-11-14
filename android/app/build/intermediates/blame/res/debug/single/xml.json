@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nele/IT/FastPay/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/nele/IT/FastPay/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/nele/IT/payqr/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/nele/IT/payqr/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/nele/IT/copy/FastPayCopy/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    }
+]
